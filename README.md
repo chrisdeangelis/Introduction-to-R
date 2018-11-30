@@ -6,7 +6,7 @@ output:
   html_document:
    theme: flatly
 ---
-
+```{r}
 # Calculate 3 + 4
 3 + 4
 
